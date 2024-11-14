@@ -18,14 +18,14 @@
   ## Pending
 - [ ] drive 
 
-[ ] ok3 
+- [ ] ok3 
 
-[ ] 1234 
+- [ ] 1234 
   
   ## Completed
-  [x] car wash 
+- [x] car wash 
 
-[x] lap update 
+- [x] lap update 
 
-[x] okk2 
+- [x] okk2 
     
