@@ -14,3 +14,24 @@ hactoberfest_01
   - [Second pull:- Line 30 - 'Semester'  #change it to your college semester](#left-alignment)
   - [Third pull:- Line 31 - 'Branch'   #change it to your studing branch](#left-alignment)
   - [Fourth pull:- Line 32 - 'College'   #change it to your College](#left-alignment)
+
+
+
+  # hello
+  
+  ### Summary : 3/6 Done
+  
+  ## Pending
+  [ ] drive 
+
+[ ] ok3 
+
+[ ] 1234 
+  
+  ## Completed
+  [x] car wash 
+
+[x] lap update 
+
+[x] okk2 
+    
